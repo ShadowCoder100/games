@@ -1,2 +1,1 @@
-# TESTING
-FAD
+print('hello world!')
